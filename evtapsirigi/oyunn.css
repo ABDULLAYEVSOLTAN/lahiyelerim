@@ -1,0 +1,113 @@
+body{
+  background: #D8C7B1;
+}
+.menu{
+  width: 1000px;
+  height: 900px;
+  background: rgb(255, 255, 255);
+  box-sizing: border-box;
+margin-left: 500px;
+}
+.g {
+
+  width: 1000px;
+  height: 150px;
+  background-image: url(https://st.depositphotos.com/2050411/2178/i/450/depositphotos_21782213-stock-photo-wood-texture.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+.m {
+  width: 145px;
+ height: 300px;
+  background: rgb(250, 250, 250);
+  margin-top: 15px;
+  border: solid;
+ box-sizing: border-box;
+  float: left;
+  
+
+
+
+
+}
+.mu{
+  width: 370px;
+  padding-top: 30px;
+ float: left;
+  padding-left: 30px;
+  border-bottom : solid;
+  box-sizing: border-box;
+  margin-left: 20px;
+  padding-top: 20px;
+  margin-right: 200px;
+}
+.p {
+
+max-width:600px ;
+
+  box-sizing: border-box;
+ 
+   padding-left: 30px;
+  
+
+   margin-left: 20px;
+   padding-top: 20px
+}
+.f{
+  width: 145px;
+height: 200px;
+  background: rgb(255, 255, 255);
+ 
+  border: solid;
+
+box-sizing: border-box;
+float: left;
+
+
+  
+}
+
+  
+
+
+
+
+
+
+
+
+.gunka{
+  width: 370px;
+
+ padding-right: 100px;
+
+  box-sizing: border-box;
+
+
+
+   float: left;
+}
+/* .loot{
+  width: 100px;
+float: left;
+
+padding-left: 30px;
+box-sizing: border-box;
+margin-left: 20px;
+margin-bottom: 100px;
+
+
+} */
+.out{
+  width: 370px;
+  padding-top: 30px;
+  float: left;
+
+  
+ 
+  
+ 
+
+}
